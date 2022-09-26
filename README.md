@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gimlininbaltasi
+- 👋 Hi, I’m Mehmet Bulut
 - 👀 I’m interested in Front End Developer area.
 - 🌱 I’m currently learning Javascript
   
